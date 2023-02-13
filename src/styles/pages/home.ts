@@ -2,7 +2,7 @@ import { styled } from "..";
 
 export const HomeContainer = styled('main',{
     display: 'flex',
-    minHeight: '656px',
+    minHeight: '450px',
     width: '100%',
     maxWidth: 'calc(100vw - ((100vw - 1180px) / 2 ))',
     margin: '0 0 0 auto',
